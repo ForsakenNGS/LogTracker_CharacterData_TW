@@ -1,1 +1,1 @@
-LogTracker_CharacterData_US = {};
+LogTracker_CharacterData_TW = {};
