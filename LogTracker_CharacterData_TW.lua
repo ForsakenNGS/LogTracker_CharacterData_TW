@@ -1,4 +1,41 @@
 LogTracker_CharacterData_TW = {
+  [ "細水丶長流-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:52:17",
+    last_update_int = 1649998337,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 63.217133031108,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 47.477228815898,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Souporman-伊弗斯" ] = {
     level = "0",
     faction = "Horde",
@@ -9,6 +46,7 @@ LogTracker_CharacterData_TW = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26,6 +64,7 @@ LogTracker_CharacterData_TW = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48,6 +87,7 @@ LogTracker_CharacterData_TW = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -56,6 +96,7 @@ LogTracker_CharacterData_TW = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -73,6 +114,7 @@ LogTracker_CharacterData_TW = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -90,6 +132,7 @@ LogTracker_CharacterData_TW = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
