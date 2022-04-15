@@ -11,7 +11,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -25,7 +24,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -48,7 +46,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Protection",
@@ -66,7 +63,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Gladiator",
@@ -75,6 +71,41 @@ LogTracker_CharacterData_TW = {
           {
             spec = "Protection",
             percentRank = 70.359716778354,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Selenes-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 16:04:12",
+    last_update_int = 1650031452,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 87.90841865077,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 77.05902455695,
           },
         },
         encountersKilled = 6,
@@ -93,7 +124,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -107,7 +137,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -125,7 +154,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Arcane",
@@ -143,7 +171,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -161,7 +188,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Frost",
@@ -175,7 +201,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Frost",
@@ -198,7 +223,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Demonology",
@@ -216,7 +240,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Demonology",
@@ -239,7 +262,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
@@ -253,7 +275,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
@@ -276,7 +297,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 14,
       },
@@ -285,7 +305,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -303,7 +322,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -317,7 +335,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -335,7 +352,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
@@ -349,7 +365,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
@@ -372,7 +387,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Arcane",
@@ -386,7 +400,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -404,7 +417,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -418,7 +430,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -441,7 +452,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Arcane",
@@ -455,7 +465,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -473,7 +482,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Combat",
@@ -487,7 +495,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -505,7 +512,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -519,7 +525,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -542,7 +547,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -560,7 +564,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -583,7 +586,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -601,7 +603,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -624,7 +625,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Combat",
@@ -638,7 +638,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -656,7 +655,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -670,7 +668,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -693,7 +690,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Shadow",
@@ -711,7 +707,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Shadow",
@@ -734,7 +729,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Fury",
@@ -756,7 +750,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Fury",
@@ -779,7 +772,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Arcane",
@@ -793,7 +785,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -811,7 +802,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Warden",
@@ -833,7 +823,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Warden",
@@ -864,7 +853,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Feral",
@@ -882,7 +870,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -900,7 +887,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Shadow",
@@ -914,7 +900,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Shadow",
@@ -937,7 +922,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Elemental",
@@ -951,7 +935,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Elemental",
@@ -974,7 +957,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 14,
       },
@@ -983,7 +965,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -1006,7 +987,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -1024,7 +1004,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -1047,7 +1026,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Arcane",
@@ -1061,7 +1039,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Arcane",
@@ -1084,7 +1061,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Frost",
@@ -1102,7 +1078,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Arcane",
@@ -1125,7 +1100,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Enhancement",
@@ -1143,7 +1117,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Enhancement",
@@ -1166,7 +1139,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -1180,7 +1152,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -1203,7 +1174,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -1217,7 +1187,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -1240,7 +1209,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -1254,7 +1222,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -1265,27 +1232,22 @@ LogTracker_CharacterData_TW = {
       },
     },
   },
-  [ "厄洛思-伊弗斯" ] = {
+  [ "夜光天使-伊弗斯" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 14:58:04",
-    last_update_int = 1650027484,
+    last_update = "2022-04-15 16:00:16",
+    last_update_int = 1650031216,
     performance = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
-            spec = "Retribution",
-            percentRank = 70.496406854616,
-          },
-          {
             spec = "Holy",
-            percentRank = 52.573401475194,
+            percentRank = 25.035992821905,
           },
         },
         encountersKilled = 14,
@@ -1295,17 +1257,7 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 70.073435172677,
-          },
-          {
-            spec = "Justicar",
-            percentRank = 69.265037068696,
-          },
-        },
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -1322,7 +1274,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
@@ -1336,7 +1287,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Shadow",
@@ -1359,7 +1309,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Enhancement",
@@ -1373,7 +1322,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Enhancement",
@@ -1396,7 +1344,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -1410,11 +1357,53 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
             percentRank = 37.002290825788,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "厄洛思-伊弗斯" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 14:58:04",
+    last_update_int = 1650027484,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 70.496406854616,
+          },
+          {
+            spec = "Holy",
+            percentRank = 52.573401475194,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 70.073435172677,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 69.265037068696,
           },
         },
         encountersKilled = 6,
@@ -1433,7 +1422,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Combat",
@@ -1447,7 +1435,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -1465,7 +1452,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Elemental",
@@ -1479,7 +1465,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Elemental",
@@ -1502,7 +1487,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Protection",
@@ -1524,7 +1508,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Justicar",
@@ -1555,7 +1538,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Arcane",
@@ -1569,7 +1551,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -1587,7 +1568,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -1605,7 +1585,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -1632,7 +1611,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Shadow",
@@ -1646,7 +1624,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -1664,7 +1641,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Elemental",
@@ -1678,7 +1654,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Elemental",
@@ -1701,7 +1676,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -1715,7 +1689,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -1738,7 +1711,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Enhancement",
@@ -1752,7 +1724,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Enhancement",
@@ -1775,7 +1746,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Arcane",
@@ -1789,7 +1759,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -1807,7 +1776,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -1821,7 +1789,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -1844,7 +1811,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
@@ -1858,7 +1824,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -1876,7 +1841,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 14,
       },
@@ -1885,7 +1849,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -1903,7 +1866,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Shadow",
@@ -1917,7 +1879,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Shadow",
@@ -1940,7 +1901,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
@@ -1954,7 +1914,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -1972,7 +1931,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
@@ -1986,7 +1944,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
@@ -2009,7 +1966,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Combat",
@@ -2023,7 +1979,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Combat",
@@ -2046,7 +2001,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -2060,7 +2014,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -2083,7 +2036,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -2097,7 +2049,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -2120,7 +2071,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
@@ -2138,7 +2088,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
@@ -2161,7 +2110,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -2179,7 +2127,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -2197,7 +2144,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Arcane",
@@ -2211,7 +2157,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -2229,7 +2174,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
@@ -2243,7 +2187,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
@@ -2266,7 +2209,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 14,
       },
@@ -2275,7 +2217,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -2293,7 +2234,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Combat",
@@ -2307,7 +2247,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Combat",
@@ -2330,7 +2269,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Balance",
@@ -2344,7 +2282,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Guardian",
@@ -2371,7 +2308,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Gladiator",
@@ -2389,7 +2325,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -2407,7 +2342,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Elemental",
@@ -2421,7 +2355,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -2439,7 +2372,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -2453,45 +2385,7 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "我就廢-伊弗斯" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 08:21:12",
-    last_update_int = 1650003672,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        partitionName = "P3.5 & P4",
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 54.603851449014,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        partitionName = "P3.5 & P4",
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 37.075988932158,
-          },
-        },
         encountersKilled = 6,
       },
     },
@@ -2508,7 +2402,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Feral",
@@ -2522,7 +2415,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Feral",
@@ -2545,7 +2437,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -2559,7 +2450,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -2582,7 +2472,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Arcane",
@@ -2596,7 +2485,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Arcane",
@@ -2619,7 +2507,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -2637,11 +2524,45 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
             percentRank = 94.810330517991,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "我就廢-伊弗斯" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 08:21:12",
+    last_update_int = 1650003672,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 54.603851449014,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 37.075988932158,
           },
         },
         encountersKilled = 6,
@@ -2660,7 +2581,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -2674,7 +2594,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -2697,7 +2616,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Arcane",
@@ -2715,7 +2633,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Arcane",
@@ -2738,7 +2655,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -2756,7 +2672,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -2774,7 +2689,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -2792,7 +2706,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -2815,7 +2728,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Elemental",
@@ -2833,7 +2745,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -2860,7 +2771,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Gladiator",
@@ -2882,7 +2792,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Protection",
@@ -2909,7 +2818,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Enhancement",
@@ -2923,7 +2831,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Enhancement",
@@ -2946,7 +2853,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Justicar",
@@ -2964,7 +2870,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Protection",
@@ -2991,7 +2896,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -3005,7 +2909,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -3023,7 +2926,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Elemental",
@@ -3041,7 +2943,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -3059,7 +2960,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Justicar",
@@ -3077,7 +2977,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Justicar",
@@ -3104,7 +3003,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -3118,7 +3016,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -3141,7 +3038,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -3155,7 +3051,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -3173,7 +3068,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Balance",
@@ -3187,7 +3081,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Balance",
@@ -3210,7 +3103,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
@@ -3224,7 +3116,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Justicar",
@@ -3255,7 +3146,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
@@ -3273,7 +3163,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
@@ -3296,7 +3185,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -3310,7 +3198,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -3333,7 +3220,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Marksmanship",
@@ -3351,7 +3237,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -3369,7 +3254,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -3383,7 +3267,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -3406,7 +3289,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -3424,7 +3306,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Balance",
@@ -3447,7 +3328,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -3461,7 +3341,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -3484,7 +3363,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Shadow",
@@ -3498,7 +3376,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -3516,7 +3393,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
@@ -3530,7 +3406,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -3548,7 +3423,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -3562,7 +3436,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -3580,7 +3453,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -3594,7 +3466,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -3612,7 +3483,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -3626,7 +3496,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -3644,7 +3513,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Protection",
@@ -3662,7 +3530,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Protection",
@@ -3673,38 +3540,6 @@ LogTracker_CharacterData_TW = {
             percentRank = 13.859153988744,
           },
         },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "素食玉米雞-伊弗斯" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 07:06:20",
-    last_update_int = 1649999180,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        partitionName = "P3.5 & P4",
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 39.485077265876,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        partitionName = "P3.5 & P4",
-        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -3721,7 +3556,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Fury",
@@ -3735,7 +3569,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Fury",
@@ -3758,7 +3591,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Feral",
@@ -3772,7 +3604,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Feral",
@@ -3803,7 +3634,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Enhancement",
@@ -3817,7 +3647,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Enhancement",
@@ -3840,7 +3669,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 14,
       },
@@ -3849,7 +3677,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
@@ -3872,7 +3699,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -3886,7 +3712,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -3909,7 +3734,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Enhancement",
@@ -3923,7 +3747,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Enhancement",
@@ -3946,7 +3769,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Elemental",
@@ -3960,7 +3782,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Elemental",
@@ -3983,7 +3804,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
@@ -3997,7 +3817,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
@@ -4020,7 +3839,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Fury",
@@ -4034,7 +3852,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -4052,7 +3869,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
@@ -4070,13 +3886,42 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
             percentRank = 33.278626935321,
           },
         },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "素食玉米雞-伊弗斯" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 07:06:20",
+    last_update_int = 1649999180,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 39.485077265876,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -4093,7 +3938,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -4107,7 +3951,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -4130,7 +3973,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -4144,7 +3986,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -4167,7 +4008,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Retribution",
@@ -4181,7 +4021,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Justicar",
@@ -4204,7 +4043,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 14,
       },
@@ -4213,7 +4051,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -4231,7 +4068,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -4249,7 +4085,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -4267,7 +4102,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -4281,7 +4115,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -4304,7 +4137,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -4318,7 +4150,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -4341,7 +4172,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
@@ -4355,7 +4185,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -4373,7 +4202,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
@@ -4387,7 +4215,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -4405,7 +4232,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -4419,7 +4245,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -4437,7 +4262,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Justicar",
@@ -4455,7 +4279,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Protection",
@@ -4482,7 +4305,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Enhancement",
@@ -4496,7 +4318,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Enhancement",
@@ -4519,7 +4340,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
@@ -4533,7 +4353,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -4551,7 +4370,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Holy",
@@ -4565,7 +4383,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -4583,7 +4400,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -4597,7 +4413,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Restoration",
@@ -4620,7 +4435,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Fury",
@@ -4642,7 +4456,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {},
         encountersKilled = 6,
       },
@@ -4660,7 +4473,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Guardian",
@@ -4678,7 +4490,6 @@ LogTracker_CharacterData_TW = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Feral",
