@@ -1,4 +1,34 @@
 LogTracker_CharacterData_TW = {
+  [ "Dfordog-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 16:14:38",
+    last_update_int = 1650032078,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 53.958894878706,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Elishaq-伊弗斯" ] = {
     level = "0",
     faction = "Alliance",
@@ -77,6 +107,299 @@ LogTracker_CharacterData_TW = {
       },
     },
   },
+  [ "Jeanna-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:58:37",
+    last_update_int = 1650038317,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 83.021622986278,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Kleven-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 18:06:24",
+    last_update_int = 1650038784,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 99.013819789939,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 82.205387205387,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Kryeol-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:00:04",
+    last_update_int = 1650034804,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 82.769130292805,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Lisa-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 16:58:08",
+    last_update_int = 1650034688,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 95.822781550189,
+          },
+          {
+            spec = "Arms",
+            percentRank = 94.312586445367,
+          },
+          {
+            spec = "Champion",
+            percentRank = 58.386745676624,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Gladiator",
+            percentRank = 34.133446423523,
+          },
+          {
+            spec = "Fury",
+            percentRank = 17.316768838496,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Nanopig-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:08:05",
+    last_update_int = 1650035285,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 99.366116937437,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Otosore-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:04:36",
+    last_update_int = 1650035076,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Fire",
+            percentRank = 15.651054617792,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Fire",
+            percentRank = 29.825424145562,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Phil-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:04:40",
+    last_update_int = 1650035080,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 44.665320701972,
+          },
+          {
+            spec = "Enhancement",
+            percentRank = 4.0280328552274,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 71.925499194454,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Posh-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:01:33",
+    last_update_int = 1650042093,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arms",
+            percentRank = 96.22683264177,
+          },
+          {
+            spec = "Fury",
+            percentRank = 81.145000815528,
+          },
+          {
+            spec = "Champion",
+            percentRank = 49.788366186963,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 81.636195952911,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 24.255018377156,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Selenes-伊弗斯" ] = {
     level = "0",
     faction = "Alliance",
@@ -106,6 +429,76 @@ LogTracker_CharacterData_TW = {
           {
             spec = "Restoration",
             percentRank = 77.05902455695,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Windseeker-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 16:59:18",
+    last_update_int = 1650034758,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 94.240657916198,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 53.4530461672,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Xnfury-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:17:15",
+    last_update_int = 1650035835,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 77.399582793225,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 25.964303151956,
           },
         },
         encountersKilled = 6,
@@ -142,12 +535,12 @@ LogTracker_CharacterData_TW = {
       },
     },
   },
-  [ "一海莉一-伊弗斯" ] = {
+  [ "Aboaseigia-伊弗斯" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 14:41:42",
-    last_update_int = 1650026502,
+    last_update = "2022-04-15 17:38:09",
+    last_update_int = 1650037089,
     performance = {
       {
         zoneId = 1011,
@@ -156,12 +549,51 @@ LogTracker_CharacterData_TW = {
         partition = 5,
         allstars = {
           {
-            spec = "Arcane",
-            percentRank = 36.874272903333,
+            spec = "Elemental",
+            percentRank = 91.153976156239,
           },
           {
-            spec = "Fire",
-            percentRank = 11.257057601732,
+            spec = "Restoration",
+            percentRank = 12.179984947495,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 82.814743896601,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Adora-伊弗斯" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 17:41:43",
+    last_update_int = 1650037303,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 85.029761734258,
+          },
+          {
+            spec = "Restoration",
+            percentRank = 49.300536394806,
           },
         },
         encountersKilled = 14,
@@ -176,12 +608,12 @@ LogTracker_CharacterData_TW = {
       },
     },
   },
-  [ "一獅子一-伊弗斯" ] = {
+  [ "Angelman-伊弗斯" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 09:16:46",
-    last_update_int = 1650007006,
+    last_update = "2022-04-15 16:29:18",
+    last_update_int = 1650032958,
     performance = {
       {
         zoneId = 1011,
@@ -190,8 +622,8 @@ LogTracker_CharacterData_TW = {
         partition = 5,
         allstars = {
           {
-            spec = "Frost",
-            percentRank = 99.189533879129,
+            spec = "Arms",
+            percentRank = 39.01244813278,
           },
         },
         encountersKilled = 14,
@@ -203,82 +635,8 @@ LogTracker_CharacterData_TW = {
         partition = 5,
         allstars = {
           {
-            spec = "Frost",
-            percentRank = 98.710601719198,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "來個增高技-伊弗斯" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 14:45:37",
-    last_update_int = 1650026737,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Demonology",
-            percentRank = 90.281916112766,
-          },
-          {
-            spec = "Destruction",
-            percentRank = 45.731563653499,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Demonology",
-            percentRank = 88.449197860963,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "便意刑警-伊弗斯" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 08:23:14",
-    last_update_int = 1650003794,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 90.309837014975,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 91.367955985328,
+            spec = "Fury",
+            percentRank = 22.145065914393,
           },
         },
         encountersKilled = 6,
@@ -613,6 +971,45 @@ LogTracker_CharacterData_TW = {
       },
     },
   },
+  [ "Nooblet-伊弗斯" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 16:35:34",
+    last_update_int = 1650033334,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 97.197434514664,
+          },
+          {
+            spec = "Fire",
+            percentRank = 53.242840008191,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 95.855003490973,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Reckful-伊弗斯" ] = {
     level = "0",
     faction = "Horde",
@@ -760,6 +1157,41 @@ LogTracker_CharacterData_TW = {
       },
     },
   },
+  [ "一小宅宅一-伊弗斯" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 17:17:45",
+    last_update_int = 1650035865,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 65.011750259353,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 70.324052105497,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "一法衝天-伊弗斯" ] = {
     level = "0",
     faction = "Horde",
@@ -776,6 +1208,450 @@ LogTracker_CharacterData_TW = {
           {
             spec = "Arcane",
             percentRank = 36.168701200227,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "一海莉一-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 14:41:42",
+    last_update_int = 1650026502,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 36.874272903333,
+          },
+          {
+            spec = "Fire",
+            percentRank = 11.257057601732,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "一獅子一-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 09:16:46",
+    last_update_int = 1650007006,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Frost",
+            percentRank = 99.189533879129,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Frost",
+            percentRank = 98.710601719198,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "三歲就很萌-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:58:23",
+    last_update_int = 1650038303,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Discipline",
+            percentRank = 19.895158803577,
+          },
+          {
+            spec = "Holy",
+            percentRank = 11.14125637072,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Discipline",
+            percentRank = 22.188905547226,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "二尾貓又旅-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:33:15",
+    last_update_int = 1650036795,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Feral",
+            percentRank = 99.978524873565,
+          },
+          {
+            spec = "Warden",
+            percentRank = 84.652252407153,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 3.4280510413166,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Feral",
+            percentRank = 94.500312482245,
+          },
+          {
+            spec = "Warden",
+            percentRank = 91.288263218203,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 28.266614466086,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "五月楓-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:21:40",
+    last_update_int = 1650036100,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 98.430660036551,
+          },
+          {
+            spec = "Balance",
+            percentRank = 30.837366055997,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "來個增高技-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 14:45:37",
+    last_update_int = 1650026737,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Demonology",
+            percentRank = 90.281916112766,
+          },
+          {
+            spec = "Destruction",
+            percentRank = 45.731563653499,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Demonology",
+            percentRank = 88.449197860963,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "便意刑警-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 08:23:14",
+    last_update_int = 1650003794,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 90.309837014975,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 91.367955985328,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "像風似的女子-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 16:58:32",
+    last_update_int = 1650034712,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Discipline",
+            percentRank = 79.056429232192,
+          },
+          {
+            spec = "Smiter",
+            percentRank = 33.563535911602,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Discipline",
+            percentRank = 4.9975012493753,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "八月不下雪-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:50:19",
+    last_update_int = 1650037819,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 98.027588789714,
+          },
+          {
+            spec = "Protection",
+            percentRank = 66.252696635765,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 74.54709203644,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 32.497164368024,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "君臨-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 16:58:10",
+    last_update_int = 1650034690,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 99.895832107252,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 98.796469124281,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "否了來恩-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:39:36",
+    last_update_int = 1650037176,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 99.922088370419,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "呆萌的米粒-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:26:45",
+    last_update_int = 1650036405,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 26.47554441756,
           },
         },
         encountersKilled = 14,
@@ -1049,6 +1925,45 @@ LogTracker_CharacterData_TW = {
       },
     },
   },
+  [ "冰一淩-伊弗斯" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 18:16:21",
+    last_update_int = 1650039381,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 78.748479823107,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 64.325283974159,
+          },
+          {
+            spec = "Protection",
+            percentRank = 53.611139977138,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "切裡-伊弗斯" ] = {
     level = "0",
     faction = "Horde",
@@ -1226,141 +2141,6 @@ LogTracker_CharacterData_TW = {
           {
             spec = "Destruction",
             percentRank = 32.910176265628,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "夜光天使-伊弗斯" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 16:00:16",
-    last_update_int = 1650031216,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 25.035992821905,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "大奶寶-伊弗斯" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 07:27:28",
-    last_update_int = 1650000448,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 88.70116156283,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Shadow",
-            percentRank = 59.412717103326,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "宗室似豪-伊弗斯" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 08:44:30",
-    last_update_int = 1650005070,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 83.441465889785,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 75.40325111404,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "幻無影-伊弗斯" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 07:42:35",
-    last_update_int = 1650001355,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 60.129439068926,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 37.002290825788,
           },
         },
         encountersKilled = 6,
@@ -1629,6 +2409,236 @@ LogTracker_CharacterData_TW = {
       },
     },
   },
+  [ "夜光天使-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 16:00:16",
+    last_update_int = 1650031216,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 25.035992821905,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "夢想星塵-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:19:11",
+    last_update_int = 1650035951,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arms",
+            percentRank = 79.145228215768,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "大奶寶-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 07:27:28",
+    last_update_int = 1650000448,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 88.70116156283,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 59.412717103326,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "宗室似豪-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 08:44:30",
+    last_update_int = 1650005070,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 83.441465889785,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 75.40325111404,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "布莉-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:16:18",
+    last_update_int = 1650035778,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 94.20369529364,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "幻無影-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 07:42:35",
+    last_update_int = 1650001355,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 60.129439068926,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 37.002290825788,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "快樂就好-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:51:27",
+    last_update_int = 1650037887,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 50.816340623674,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 22.557559547475,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "嚕仔-伊弗斯" ] = {
     level = "0",
     faction = "Horde",
@@ -1825,6 +2835,100 @@ LogTracker_CharacterData_TW = {
         zoneEncounters = "6",
         partition = 5,
         allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "大魯伊-伊弗斯" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 17:17:20",
+    last_update_int = 1650035840,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Feral",
+            percentRank = 94.078233885602,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 12.57277290517,
+          },
+          {
+            spec = "Warden",
+            percentRank = 12.419403370014,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Warden",
+            percentRank = 80.468161728597,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 70.891651169619,
+          },
+          {
+            spec = "Feral",
+            percentRank = 33.628771092552,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "天天睡搞搞-伊弗斯" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 17:38:16",
+    last_update_int = 1650037096,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 96.682658063435,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 70.531475114604,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Gladiator",
+            percentRank = 98.705117331072,
+          },
+          {
+            spec = "Protection",
+            percentRank = 93.93185000778,
+          },
+        },
         encountersKilled = 6,
       },
     },
@@ -2257,6 +3361,53 @@ LogTracker_CharacterData_TW = {
       },
     },
   },
+  [ "德爺李-伊弗斯" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 17:44:24",
+    last_update_int = 1650037464,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Feral",
+            percentRank = 40.040373237697,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 35.09686791921,
+          },
+          {
+            spec = "Warden",
+            percentRank = 17.176753782669,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Feral",
+            percentRank = 29.799443213454,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 24.417637271215,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "怎摸碩呢-伊弗斯" ] = {
     level = "0",
     faction = "Horde",
@@ -2390,6 +3541,41 @@ LogTracker_CharacterData_TW = {
       },
     },
   },
+  [ "斯諾特-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:23:18",
+    last_update_int = 1650036198,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Survival",
+            percentRank = 73.753203024078,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 35.552358064566,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "旺財你醒醒啊-伊弗斯" ] = {
     level = "0",
     faction = "Alliance",
@@ -2421,6 +3607,83 @@ LogTracker_CharacterData_TW = {
             percentRank = 96.488835861599,
           },
         },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "海肥仔-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 16:42:16",
+    last_update_int = 1650033736,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 67.027205364388,
+          },
+          {
+            spec = "Protection",
+            percentRank = 47.947641536937,
+          },
+          {
+            spec = "Retribution",
+            percentRank = 30.076285240464,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 72.730264297343,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 0.73479854684135,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "淺野風雪-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:47:18",
+    last_update_int = 1650037638,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 97.623742296035,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -2460,12 +3723,12 @@ LogTracker_CharacterData_TW = {
       },
     },
   },
-  [ "球比-伊弗斯" ] = {
+  [ "無厘毛-伊弗斯" ] = {
     level = "0",
     faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 08:55:20",
-    last_update_int = 1650005720,
+    last_update = "2022-04-15 17:34:11",
+    last_update_int = 1650036851,
     performance = {
       {
         zoneId = 1011,
@@ -2474,8 +3737,8 @@ LogTracker_CharacterData_TW = {
         partition = 5,
         allstars = {
           {
-            spec = "Arcane",
-            percentRank = 96.675638196859,
+            spec = "Shadow",
+            percentRank = 26.244241222489,
           },
         },
         encountersKilled = 14,
@@ -2487,47 +3750,8 @@ LogTracker_CharacterData_TW = {
         partition = 5,
         allstars = {
           {
-            spec = "Arcane",
-            percentRank = 90.074409294635,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "田中明日香-伊弗斯" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 09:59:16",
-    last_update_int = 1650009556,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 84.245576394581,
-          },
-          {
-            spec = "Elemental",
-            percentRank = 2.0343391405476,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 94.810330517991,
+            spec = "Shadow",
+            percentRank = 4.4059710123974,
           },
         },
         encountersKilled = 6,
@@ -2884,6 +4108,36 @@ LogTracker_CharacterData_TW = {
       },
     },
   },
+  [ "易魂-伊弗斯" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 18:12:25",
+    last_update_int = 1650039145,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 98.652136604293,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "星野殘紅-伊弗斯" ] = {
     level = "0",
     faction = "Horde",
@@ -3042,6 +4296,36 @@ LogTracker_CharacterData_TW = {
           {
             spec = "Restoration",
             percentRank = 3.5057374282821,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "洞妖妖-伊弗斯" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 16:51:41",
+    last_update_int = 1650034301,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 55.38754684225,
           },
         },
         encountersKilled = 14,
@@ -3351,6 +4635,487 @@ LogTracker_CharacterData_TW = {
       },
     },
   },
+  [ "球比-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 08:55:20",
+    last_update_int = 1650005720,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 96.675638196859,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 90.074409294635,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "田中明日香-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 09:59:16",
+    last_update_int = 1650009556,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 84.245576394581,
+          },
+          {
+            spec = "Elemental",
+            percentRank = 2.0343391405476,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 94.810330517991,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "痴漢自衛隊-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:14:29",
+    last_update_int = 1650035669,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 76.403720054313,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 37.251696231505,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "細水丶長流-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:52:17",
+    last_update_int = 1649998337,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 63.217133031108,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 47.477228815898,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "維京亦戰-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 08:06:40",
+    last_update_int = 1650002800,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Feral",
+            percentRank = 98.158519842221,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Feral",
+            percentRank = 97.316559425224,
+          },
+          {
+            spec = "Warden",
+            percentRank = 91.986437036291,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 69.034952518272,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "腐朽十字架-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:01:17",
+    last_update_int = 1650034877,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 82.844365710335,
+          },
+          {
+            spec = "Dreamstate",
+            percentRank = 46.866746698679,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "薩亞-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:30:10",
+    last_update_int = 1650036610,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 99.646279128525,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 61.341810302549,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 98.507049083792,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 45.079151118636,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "豬鼻-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 08:47:05",
+    last_update_int = 1650005225,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 76.73344659696,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 62.492939182828,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "賽倫-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 16:57:27",
+    last_update_int = 1650034647,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 97.396275102441,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 78.511448518283,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "踽踽獨行-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:30:34",
+    last_update_int = 1650036634,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 99.96677226974,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 99.322642412638,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "逆天熊-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:27:17",
+    last_update_int = 1650036437,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Feral",
+            percentRank = 93.02810020294,
+          },
+          {
+            spec = "Warden",
+            percentRank = 24.991403026135,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 20.414358351673,
+          },
+          {
+            spec = "Balance",
+            percentRank = 5.9648288973384,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 22.117828263381,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "達伊薩-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 08:14:39",
+    last_update_int = 1650003279,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 58.430387756313,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "酪梨烤雞沙拉-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:34:31",
+    last_update_int = 1650036871,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 73.074533790483,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 53.59322364888,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "牧一-伊弗斯" ] = {
     level = "0",
     faction = "Horde",
@@ -3538,358 +5303,6 @@ LogTracker_CharacterData_TW = {
           {
             spec = "Justicar",
             percentRank = 13.859153988744,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "細水丶長流-伊弗斯" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:52:17",
-    last_update_int = 1649998337,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Fury",
-            percentRank = 63.217133031108,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Fury",
-            percentRank = 47.477228815898,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "維京亦戰-伊弗斯" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 08:06:40",
-    last_update_int = 1650002800,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Feral",
-            percentRank = 98.158519842221,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Feral",
-            percentRank = 97.316559425224,
-          },
-          {
-            spec = "Warden",
-            percentRank = 91.986437036291,
-          },
-          {
-            spec = "Guardian",
-            percentRank = 69.034952518272,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "豬鼻-伊弗斯" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 08:47:05",
-    last_update_int = 1650005225,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 76.73344659696,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 62.492939182828,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "達伊薩-伊弗斯" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 08:14:39",
-    last_update_int = 1650003279,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 58.430387756313,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "野豬林山豬哥-伊弗斯" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 13:09:29",
-    last_update_int = 1650020969,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 66.362310873151,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 8.7443607127555,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "阿嬤的洨姑娘-伊弗斯" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 13:49:25",
-    last_update_int = 1650023365,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 66.696337025227,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 60.5820923191,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "阿拉圖釘-伊弗斯" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 07:45:45",
-    last_update_int = 1650001545,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 86.751946799975,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 60.881308092851,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "風中劔-伊弗斯" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 15:30:42",
-    last_update_int = 1650029442,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 51.599006579644,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 58.418883185565,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "飛鳥良-伊弗斯" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 15:25:34",
-    last_update_int = 1650029134,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Fury",
-            percentRank = 34.484801140022,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "鮮奶多多-伊弗斯" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 09:59:22",
-    last_update_int = 1650009562,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 56.351814719457,
-          },
-          {
-            spec = "Shadow",
-            percentRank = 43.189598192706,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 33.278626935321,
           },
         },
         encountersKilled = 6,
@@ -4125,6 +5538,41 @@ LogTracker_CharacterData_TW = {
       },
     },
   },
+  [ "蒙塔基的刚蛋-伊弗斯" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 16:18:08",
+    last_update_int = 1650032288,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 41.043119669194,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 54.445149636284,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "薩滿好棒棒-伊弗斯" ] = {
     level = "0",
     faction = "Horde",
@@ -4293,6 +5741,249 @@ LogTracker_CharacterData_TW = {
       },
     },
   },
+  [ "野豬林山豬哥-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 13:09:29",
+    last_update_int = 1650020969,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 66.362310873151,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 8.7443607127555,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "阿嬤的洨姑娘-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 13:49:25",
+    last_update_int = 1650023365,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 66.696337025227,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 60.5820923191,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "阿拉圖釘-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 07:45:45",
+    last_update_int = 1650001545,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 86.751946799975,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 60.881308092851,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "風中劔-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 15:30:42",
+    last_update_int = 1650029442,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 51.599006579644,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 58.418883185565,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "飛鳥良-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 15:25:34",
+    last_update_int = 1650029134,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 34.484801140022,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "鮮奶多多-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 09:59:22",
+    last_update_int = 1650009562,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 56.351814719457,
+          },
+          {
+            spec = "Shadow",
+            percentRank = 43.189598192706,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 33.278626935321,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "麻雀成長日記-伊弗斯" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:01:40",
+    last_update_int = 1650042100,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 96.897389701261,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 34.983832678454,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "鐵娘子-伊弗斯" ] = {
     level = "0",
     faction = "Horde",
@@ -4322,6 +6013,41 @@ LogTracker_CharacterData_TW = {
           {
             spec = "Enhancement",
             percentRank = 74.315639868998,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "阿昀-伊弗斯" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 16:50:41",
+    last_update_int = 1650034241,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 98.191942074397,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 75.831560256548,
           },
         },
         encountersKilled = 6,
@@ -4502,6 +6228,49 @@ LogTracker_CharacterData_TW = {
           {
             spec = "Warden",
             percentRank = 51.052545424783,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "天經覺-瑪拉頓" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 18:56:14",
+    last_update_int = 1650041774,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Frost",
+            percentRank = 23.959204812557,
+          },
+          {
+            spec = "Arcane",
+            percentRank = 12.736528997378,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Frost",
+            percentRank = 33.130434782609,
+          },
+          {
+            spec = "Arcane",
+            percentRank = 10.420199199213,
           },
         },
         encountersKilled = 6,
