@@ -8,3 +8,5 @@
 ## LoadOnDemand: 1
 
 LogTracker_CharacterData_TW.lua
+LogTracker_CharacterData_TW_5052.lua
+LogTracker_CharacterData_TW_5053.lua
